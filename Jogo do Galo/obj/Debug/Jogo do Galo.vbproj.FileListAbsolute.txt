@@ -1,0 +1,24 @@
+C:\Users\aluno\Desktop\Jogo do Galo\Jogo do Galo\Jogo do Galo\bin\Debug\Jogo do Galo.exe.config
+C:\Users\aluno\Desktop\Jogo do Galo\Jogo do Galo\Jogo do Galo\bin\Debug\Jogo do Galo.exe
+C:\Users\aluno\Desktop\Jogo do Galo\Jogo do Galo\Jogo do Galo\bin\Debug\Jogo do Galo.pdb
+C:\Users\aluno\Desktop\Jogo do Galo\Jogo do Galo\Jogo do Galo\bin\Debug\Jogo do Galo.xml
+C:\Users\aluno\Desktop\Jogo do Galo\Jogo do Galo\Jogo do Galo\obj\Debug\Jogo do Galo.vbprojAssemblyReference.cache
+C:\Users\aluno\Desktop\Jogo do Galo\Jogo do Galo\Jogo do Galo\obj\Debug\Jogo_do_Galo.Form1.resources
+C:\Users\aluno\Desktop\Jogo do Galo\Jogo do Galo\Jogo do Galo\obj\Debug\Jogo_do_Galo.Resources.resources
+C:\Users\aluno\Desktop\Jogo do Galo\Jogo do Galo\Jogo do Galo\obj\Debug\Jogo do Galo.vbproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Jogo do Galo\Jogo do Galo\Jogo do Galo\obj\Debug\Jogo do Galo.vbproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Jogo do Galo\Jogo do Galo\Jogo do Galo\obj\Debug\Jogo do Galo.exe
+C:\Users\aluno\Desktop\Jogo do Galo\Jogo do Galo\Jogo do Galo\obj\Debug\Jogo do Galo.xml
+C:\Users\aluno\Desktop\Jogo do Galo\Jogo do Galo\Jogo do Galo\obj\Debug\Jogo do Galo.pdb
+E:\ES_10ano\Engenharia de Software\Jogo do Galo\Jogo do Galo\Jogo do Galo\bin\Debug\Jogo do Galo.exe.config
+E:\ES_10ano\Engenharia de Software\Jogo do Galo\Jogo do Galo\Jogo do Galo\bin\Debug\Jogo do Galo.exe
+E:\ES_10ano\Engenharia de Software\Jogo do Galo\Jogo do Galo\Jogo do Galo\bin\Debug\Jogo do Galo.pdb
+E:\ES_10ano\Engenharia de Software\Jogo do Galo\Jogo do Galo\Jogo do Galo\bin\Debug\Jogo do Galo.xml
+E:\ES_10ano\Engenharia de Software\Jogo do Galo\Jogo do Galo\Jogo do Galo\obj\Debug\Jogo do Galo.vbproj.AssemblyReference.cache
+E:\ES_10ano\Engenharia de Software\Jogo do Galo\Jogo do Galo\Jogo do Galo\obj\Debug\Jogo_do_Galo.Form1.resources
+E:\ES_10ano\Engenharia de Software\Jogo do Galo\Jogo do Galo\Jogo do Galo\obj\Debug\Jogo_do_Galo.Resources.resources
+E:\ES_10ano\Engenharia de Software\Jogo do Galo\Jogo do Galo\Jogo do Galo\obj\Debug\Jogo do Galo.vbproj.GenerateResource.cache
+E:\ES_10ano\Engenharia de Software\Jogo do Galo\Jogo do Galo\Jogo do Galo\obj\Debug\Jogo do Galo.vbproj.CoreCompileInputs.cache
+E:\ES_10ano\Engenharia de Software\Jogo do Galo\Jogo do Galo\Jogo do Galo\obj\Debug\Jogo do Galo.exe
+E:\ES_10ano\Engenharia de Software\Jogo do Galo\Jogo do Galo\Jogo do Galo\obj\Debug\Jogo do Galo.xml
+E:\ES_10ano\Engenharia de Software\Jogo do Galo\Jogo do Galo\Jogo do Galo\obj\Debug\Jogo do Galo.pdb
