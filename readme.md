@@ -15,4 +15,4 @@ This project was developed in 30/04/2019 for a school project.
 
 This project uses the license [MIT][mit]. [LICENSE](https://github.com/Your-Scripts/jogo-do-galo/blob/master/LICENSE)
 
-[mit]: https://opensource.org/licenses/MIT
+[mit]:https://opensource.org/licenses/MIT
